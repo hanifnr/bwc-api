@@ -1,0 +1,8 @@
+{
+	"chat": [
+		{id: '1', username: 'User 1', message: 'Sukses berpola, gagal berpola, tidak ada yang kebetulan', lasttime: '14.10 PM', unread: '1', isPinned: true},
+		{id: '2', username: 'User 2', message: 'Dimulai di akhir selesai di awal', lasttime: '11.21 AM', unread: '2', isPinned: true},
+		{id: '3', username: 'User 3', message: 'Tanpa tapi tanpa nanti hajar bleh', lasttime: '09.20 AM', unread: '3', isPinned: false},
+		{id: '4', username: 'User 4', message: 'Tes ukur scale up', lasttime: '08.56 AM', unread: '1', isPinned: false}
+    	]
+}
