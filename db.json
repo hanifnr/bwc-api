@@ -10,6 +10,9 @@
 		{ "id": "2", "isOnline": true, "username": "User 2" },
 		{ "id": "3", "isOnline": false, "username": "User 3" },
 		{ "id": "4", "isOnline": true, "username": "User 4" }
+	],
+	"usr": [
+		{ "id": "1", "email":"admin@bwc.id", "password":"aefc2a3c04e7e82d0b4e3bb67281d85d"}	
 	]
 
 }
