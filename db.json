@@ -1,18 +1,96 @@
 {
-	"chatList": [
-		{"id": "1", "username": "User 1", "message": "Sukses berpola, gagal berpola, tidak ada yang kebetulan", "lasttime": "14.10 PM", "unread": "1", "isPinned": true},
-		{"id": "2", "username": "User 2", "message": "Dimulai di akhir selesai di awal", "lasttime": "11.21 AM", "unread": "2", "isPinned": true},
-		{"id": "3", "username": "User 3", "message": "Tanpa tapi tanpa nanti hajar bleh", "lasttime": "09.20 AM", "unread": "3", "isPinned": false},
-		{"id": "4", "username": "User 4", "message": "Tes ukur scale up", "lasttime": "08.56 AM", "unread": "1", "isPinned": false}
-    	],
-	"contact": [
-		{ "id": "1", "isOnline": false, "username": "User 1" },
-		{ "id": "2", "isOnline": true, "username": "User 2" },
-		{ "id": "3", "isOnline": false, "username": "User 3" },
-		{ "id": "4", "isOnline": true, "username": "User 4" }
+	"chatList": [{
+			"id": "1",
+			"username": "User 1",
+			"message": "Sukses berpola, gagal berpola, tidak ada yang kebetulan",
+			"lasttime": "14.10 PM",
+			"unread": "1",
+			"isPinned": true
+		},
+		{
+			"id": "2",
+			"username": "User 2",
+			"message": "Dimulai di akhir selesai di awal",
+			"lasttime": "11.21 AM",
+			"unread": "2",
+			"isPinned": true
+		},
+		{
+			"id": "3",
+			"username": "User 3",
+			"message": "Tanpa tapi tanpa nanti hajar bleh",
+			"lasttime": "09.20 AM",
+			"unread": "3",
+			"isPinned": false
+		},
+		{
+			"id": "4",
+			"username": "User 4",
+			"message": "Tes ukur scale up",
+			"lasttime": "08.56 AM",
+			"unread": "1",
+			"isPinned": false
+		}
 	],
-	"usr": [
-		{ "id": "1", "email":"admin@bwc.id", "password":"aefc2a3c04e7e82d0b4e3bb67281d85d"}	
-	]
+	"contact": [{
+			"id": "1",
+			"isOnline": false,
+			"username": "Lisa",
+			"lastseen": "12.21 WIB",
+			"telp": "+82878653442771",
+			"addresses": [{
+					"name": "Home",
+					"address": "Pyongyang C2-19",
+					"telp": "031-092900"
+				},
+				{
+					"name": "Office",
+					"address": "788-6 Hannam-dong",
+					"telp": "+82-2-3142-1104"
+				}
+			]
+		},
+		{
+			"id": "2",
+			"isOnline": true,
+			"username": "Jenny",
+			"lastseen": "Online",
+			"telp": "+829775886502",
+			"addresses": [{
+				"name": "Office",
+				"address": "788-6 Hannam-dong",
+				"telp": "+82-2-3142-1104"
+			}]
+		},
+		{
+			"id": "3",
+			"isOnline": false,
+			"lastseen": "Online",
+			"telp": "+829872663421",
+			"username": "Jisoo",
+			"addresses": [{
+				"name": "Office",
+				"address": "788-6 Hannam-dong",
+				"telp": "+82-2-3142-1104"
+			}]
+		},
+		{
+			"id": "4",
+			"isOnline": true,
+			"username": "Rose",
+			"lastseen": "11.48 WIB",
+			"telp": "+82039992322",
+			"addresses": [{
+				"name": "Office",
+				"address": "788-6 Hannam-dong",
+				"telp": "+82-2-3142-1104"
+			}]
+		}
+	],
+	"usr": [{
+		"id": "1",
+		"email": "admin@bwc.id",
+		"password": "aefc2a3c04e7e82d0b4e3bb67281d85d"
+	}]
 
 }
