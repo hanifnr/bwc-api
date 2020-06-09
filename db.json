@@ -107,5 +107,13 @@
 	{
 		"id": "4",
 		"value": "Refund"
+	},
+	{
+		"id": "5",
+		"value": "Jakarta"
+	},
+	{
+		"id": "6",
+		"value": "Bandung"
 	}]
 }
