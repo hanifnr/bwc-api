@@ -93,57 +93,91 @@
 		"password": "aefc2a3c04e7e82d0b4e3bb67281d85d"
 	}],
 	"tag": [{
-		"id": "1",
-		"value": "Tanya-tanya"
-	},
-	{
-		"id": "2",
-		"value": "Transfer"
-	},
-	{
-		"id": "3",
-		"value": "Customer"
-	},
-	{
-		"id": "4",
-		"value": "Refund"
-	},
-	{
-		"id": "5",
-		"value": "Jakarta"
-	},
-	{
-		"id": "6",
-		"value": "Bandung"
-	}],
-	"chatReceived": [
-	  {
-	    "id": 1,
-	    "receivedtime": "13.10 PM",
-	    "receivedfrom": "Dio",
-	    "user_id": 1,
-	    "username": "Jenny"
-	  },
-	  {
-	    "id": 2,
-	    "receivedtime": "09.10 PM",
-	    "receivedfrom": "Ahmad",
-	    "user_id": 2,
-	    "username": "Lisa"
-	  },
-	  {
-	    "id": 3,
-	    "receivedtime": "7.10 PM",
-	    "receivedfrom": "Rose",
-	    "user_id": 3,
-	    "username": "Rose"
-	  },
-	  {
-	    "id": 4,
-	    "receivedtime": "4.10 PM",
-	    "receivedfrom": "Dom",
-	    "user_id": 4,
-	    "username": "Jisoo"
-	  }
-	]
+			"id": "1",
+			"value": "Tanya-tanya"
+		},
+		{
+			"id": "2",
+			"value": "Transfer"
+		},
+		{
+			"id": "3",
+			"value": "Customer"
+		},
+		{
+			"id": "4",
+			"value": "Refund"
+		},
+		{
+			"id": "5",
+			"value": "Jakarta"
+		},
+		{
+			"id": "6",
+			"value": "Bandung"
+		}
+	],
+	"chatReceived": [{
+			"id": 1,
+			"receivedtime": "13.10 PM",
+			"receivedfrom": "Dio",
+			"user_id": 1,
+			"username": "Jenny"
+		},
+		{
+			"id": 2,
+			"receivedtime": "09.10 PM",
+			"receivedfrom": "Ahmad",
+			"user_id": 2,
+			"username": "Lisa"
+		},
+		{
+			"id": 3,
+			"receivedtime": "7.10 PM",
+			"receivedfrom": "Rose",
+			"user_id": 3,
+			"username": "Rose"
+		},
+		{
+			"id": 4,
+			"receivedtime": "4.10 PM",
+			"receivedfrom": "Dom",
+			"user_id": 4,
+			"username": "Jisoo"
+		}
+	],
+	"chat": [{
+		"id": 1,
+		"text": "Chakan eolgure geureochi motan taedo",
+		"createdAt": 1591772147,
+		"user_id": 2,
+		"to_id": 1,
+		"sent": true,
+		"received": true
+	}, {
+		"id": 2,
+		"text": "Ganyeorin mommae sok garyeojin Volume-eun du baero",
+		"createdAt": 1591772162,
+		"user_id": 2,
+		"to_id": 1,
+		"sent": true,
+		"received": true
+	}, {
+		"id": 3,
+		"text": "Black hamyeon Pink urin yeppeujanghan Savage",
+		"image": "https://instagram.fsub5-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/83421821_2523983314539892_5048381046318053461_n.jpg?_nc_ht=instagram.fsub5-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=fXyaszypGqwAX84tEm-&oh=28923b99418ed9086d4dcd704d6b3830&oe=5EE69121",
+		"createdAt": 1591772387,
+		"user_id": 2,
+		"to_id": 1,
+		"sent": true,
+		"received": true
+	}, {
+		"id": 4,
+		"text": "Weonhal ttaen daenoko ppaetji",
+		"createdAt": 1591772162,
+		"user_id": 1,
+		"to_id": 2,
+		"sent": true,
+		"received": false
+	}]
 }
