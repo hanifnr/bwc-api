@@ -115,5 +115,35 @@
 	{
 		"id": "6",
 		"value": "Bandung"
-	}]
+	}],
+	"chatReceived": [
+	  {
+	    "id": 1,
+	    "receivedtime": "13.10 PM",
+	    "receivedfrom": "Dio",
+	    "user_id": 1,
+	    "username": "Jenny"
+	  },
+	  {
+	    "id": 2,
+	    "receivedtime": "09.10 PM",
+	    "receivedfrom": "Ahmad",
+	    "user_id": 2,
+	    "username": "Lisa"
+	  },
+	  {
+	    "id": 3,
+	    "receivedtime": "7.10 PM",
+	    "receivedfrom": "Rose",
+	    "user_id": 3,
+	    "username": "Rose"
+	  },
+	  {
+	    "id": 4,
+	    "receivedtime": "4.10 PM",
+	    "receivedfrom": "Dom",
+	    "user_id": 4,
+	    "username": "Jisoo"
+	  }
+	]
 }
